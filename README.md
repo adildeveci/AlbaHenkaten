@@ -53,11 +53,14 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
  
-1. Clone the repo
+Clone the repo
    ```sh
    git clone https://github.com/adildeveci/AlbaHenkaten.git
    ```
    
+Setup - Projeden bağımsız olarak direkt msi installer indirerek programı bilgisayarınızı kurabilirsiniz
+* [Download AlbaHenkaten Setup From GDrive](https://drive.google.com/file/d/1765iDAUDDTKBEBYVpM6zhfxz9ZocuwFo/view?usp=sharing)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
