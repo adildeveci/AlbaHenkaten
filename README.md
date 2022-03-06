@@ -29,7 +29,7 @@
 
 ![image](https://user-images.githubusercontent.com/21089760/156938324-74ecc6b2-5586-4b87-a303-a470fa0a76c2.png)
 
-Fabrikada kullanılmak üzere ihtiyaca binayen yazdığım ufak bir masaüstü uygulaması.
+Fabrikada kullanılmak üzere ihtiyaca binaen yazdığım ufak bir masaüstü uygulaması.
 
  <p align="right">(<a href="#top">back to top</a>)</p>
 
